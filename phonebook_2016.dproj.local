@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/20 19:17:16.585.dfm,C:\Users\Dark Angel\Documents\RAD Studio\Projects\phonebook_2016\uMain.dfm=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/04/20 19:17:16.585.pas,C:\Users\Dark Angel\Documents\RAD Studio\Projects\phonebook_2016\uMain.pas=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/20 19:17:24.947.dproj,C:\Users\Dark Angel\Documents\RAD Studio\Projects\phonebook_2016\phonebook_2016.dproj=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2016/04/21 01:16:14.547.pas,C:\Users\Dark Angel\Documents\RAD Studio\Projects\phonebook_2016\uAddContact.pas=C:\Users\Dark Angel\Documents\RAD Studio\Projects\phonebook_2016\Unit1.pas</Transaction>
+    <Transaction>2016/04/21 01:16:14.547.dfm,C:\Users\Dark Angel\Documents\RAD Studio\Projects\phonebook_2016\uAddContact.dfm=C:\Users\Dark Angel\Documents\RAD Studio\Projects\phonebook_2016\Unit1.dfm</Transaction>
+    <Transaction>2016/04/30 13:18:01.205.pas,C:\Users\Dark Angel\Documents\RAD Studio\Projects\phonebook_2016\uEditContact.pas=C:\Users\Dark Angel\Documents\RAD Studio\Projects\phonebook_2016\Unit1.pas</Transaction>
+    <Transaction>2016/04/30 13:18:01.205.dfm,C:\Users\Dark Angel\Documents\RAD Studio\Projects\phonebook_2016\uEditContact.dfm=C:\Users\Dark Angel\Documents\RAD Studio\Projects\phonebook_2016\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

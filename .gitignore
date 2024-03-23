@@ -1,0 +1,10 @@
+__history/
+__recovery/
+Win32/
+Win64/
+intl/
+*.exe
+*.dcu
+*.ico
+*.dll
+*.png
